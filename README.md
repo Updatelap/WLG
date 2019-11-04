@@ -13,6 +13,7 @@ Impact
        Poc Ex: https://fb.me/XXXXXXXXXXXXXX
 
 [3]. Information disclosure: 
+
       A  Phone Number
            Poc Ex: https://fb.me/XXXXXXXXXXXXXX
 
