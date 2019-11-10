@@ -1,5 +1,5 @@
 # WLG
-#Word-List Generator: Token, Password, Recovery Code &amp; Filter 
+# Word-List Generator: Token, Password, Recovery Code &amp; Filter 
 
 
 [1]. Recovery Code.
