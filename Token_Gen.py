@@ -1,6 +1,6 @@
-import string, random
 import sys
-import time
+import string
+import random
 
 class fcolor:
     CReset='\033[0m'
@@ -13,16 +13,16 @@ class fcolor:
     Cyan='\033[36m'
     White='\033[37m'
 
-print (fcolor.Red +    "                                     (                  " + fcolor.Yellow + "    /    \ \ ")
-print (fcolor.Red +    "               (             )       )\ )               " + fcolor.Yellow + "   (UpdateLap)")
-print (fcolor.Red +    "   (           )\ )    )  ( /(   (  (()/(     )         " + fcolor.Yellow + "    \ \ _ /")
+print (fcolor.Red +    "                                     (                  " + fcolor.CBold + "    /    \ \ ")
+print (fcolor.Red +    "               (             )       )\ )               " + fcolor.CBold + "   (UpdateLap)")
+print (fcolor.Red +    "   (           )\ )    )  ( /(   (  (()/(     )         " + fcolor.CBold + "    \ \ _ /")
 print (fcolor.Red +    "  ))\  `  )   (()/( ( /(  )\()) ))\  /(_)) ( /(  `  )   ")
 print (fcolor.Red + "(_))( ((_)_\   _| |((_)_ | |_ (_))  | |   ((_)_ ((_)_\  ")
 print (fcolor.Red +    "| || || '_ \)/ _` |/ _` ||  _|/ -_) | |__ / _` || '_ \) ")
 print (fcolor.Red + " \_,_|| .__/ \__,_|\__,_| \__|\___| |____|\__,_|| .__/  ")
 print (fcolor.Red +    "      |_|                                       |_|     ")
 print (fcolor.Cyan + "Jafar abo Nada "  + fcolor.White + "  " + "   [11/2019] ")
-print (fcolor.Cyan + "Facebook Bug PoC : " +fcolor.White + " [ATO] Full Account Takeover Facebook")
+print (fcolor.Cyan + "Word-List Generator : " +fcolor.White + " Token, Password, Recovery Code")
 print ("")
 
 #============ Word List Gen Start============#
@@ -61,7 +61,7 @@ FILE.close()
 
 #============ Word List Filter End  ============#
 
-#============ Calculate the file size start ============#
+#============ Size meter start ============#
 
 power = 2**10
 n = 1
@@ -78,4 +78,4 @@ else:
    print ('\r')
    print (fcolor.Cyan + "File Size = " + fcolor.Green + str(size) + " / " + Dic_powerN[n])
 
-#============ Calculate the file size End ============#
+#============ Size meter end ============#
