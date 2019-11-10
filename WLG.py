@@ -61,7 +61,7 @@ FILE.close()
 
 #============ Word List Filter End  ============#
 
-#============ Size meter start ============#
+#============ Word List file size calculator Start ============#
 
 power = 2**10
 n = 1
@@ -78,4 +78,4 @@ else:
    print ('\r')
    print (fcolor.Cyan + "File Size = " + fcolor.Green + str(size) + " / " + Dic_powerN[n])
 
-#============ Size meter end ============#
+#============ Word List file size calculator End ============#
