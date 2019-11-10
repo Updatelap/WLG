@@ -2,7 +2,6 @@
 #Word-List Generator: Token, Password, Recovery Code &amp; Filter 
 
 
-===
 [1]. Recovery Code.
 
 [2]. Password Guessing.
@@ -11,7 +10,7 @@
 
 [4]. Two Factor Authentication.
 
-![](https://github.com/Updatelap/WLG/blob/master/Bug_ATO_FB.png)
+![](https://github.com/Updatelap/WLG/blob/master/WLG.png)
 
 
 
