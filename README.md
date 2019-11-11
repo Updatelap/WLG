@@ -14,4 +14,4 @@
 
 
 
-### Coded By [@Jafar_Abu_Nada](https://twitter.com/Jafar_Abu_Nada)
+### Coded By [@Jafar_Abu_Nada](https://twitter.com/Jafar_Abo_Nada)
